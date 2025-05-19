@@ -9,6 +9,7 @@ Features:
 > Calculates how long each job runs in minutes.
 
 > Writes a report to output_report.txt:
+
     - Marks [WARNING] if a job takes more than 5 minutes.
     - Marks [ERROR] if a job takes more than 10 minutes.
 
