@@ -13,3 +13,6 @@ Features:
     > Marks [WARNING] if a job takes more than 5 minutes.
 
     > Marks [ERROR] if a job takes more than 10 minutes.
+How to:
+    > ```bash
+    >python main.py
