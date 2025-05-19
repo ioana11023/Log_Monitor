@@ -1,4 +1,4 @@
-# Log Monitor App
+# Log Monitoring App
 This app reads a CSV file with job logs, tracks the duration of each job from START to END, and creates a report with warnings and errors if a job runs longer than expected.
 
 Features:
