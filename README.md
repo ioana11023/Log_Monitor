@@ -15,5 +15,4 @@ Features:
     > Marks [ERROR] if a job takes more than 10 minutes.
 
 How to:
-    > ```bash
-    > python main.py
+    > python log_monitor.py
