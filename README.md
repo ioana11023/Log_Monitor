@@ -16,4 +16,5 @@ Features:
 
 How to:
 
-    > python log_monitor.py
+    ```bash
+     python log_monitor.py
