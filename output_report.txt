@@ -1,1 +1,4 @@
 [WARNING] Job PID 12345 took 6.00 minutes.
+[ERROR] Job PID 67890 took 10.50 minutes.
+[INFO] Job PID 13579 took 3.00 minutes.
+[WARNING] Job PID 24680 took 7.00 minutes.
