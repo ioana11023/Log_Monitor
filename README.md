@@ -13,5 +13,3 @@ Features:
     > Marks [WARNING] if a job takes more than 5 minutes.
 
     > Marks [ERROR] if a job takes more than 10 minutes.
-
-- Flags jobs that don’t have both START and END entries as incomplete.
